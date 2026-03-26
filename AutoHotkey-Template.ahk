@@ -146,8 +146,8 @@ Alt & LButton::
 ;HOTKEYS - CTRL+SHIFT - Process Commands
 ;--------------------------------------------------------------------------------------------------;
 /* ;DISABLED CODE:
-;Reassign Ctrl+Shift+x to execute code, with keyboard hook safety.
-$^+x::
+;Reassign Ctrl+Shift+x to execute code.
+^+x::
 {
 	;Code.
 }
