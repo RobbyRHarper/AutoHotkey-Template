@@ -166,7 +166,7 @@ $^+x::
 ;HOTKEYS - WIN+CTRL - Operating System
 ;--------------------------------------------------------------------------------------------------;
 /* ;DISABLED CODE:
-;Reassign Win+Ctrl+x to display window properties for window under cursor.
+;Reassign Win+Ctrl+x to execute code.
 #^x::
 {
 	;Code.
