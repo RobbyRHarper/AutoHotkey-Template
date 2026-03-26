@@ -119,7 +119,7 @@ Global FIVE_S := 5000
 ;HOTKEYS - Remapped Keys
 ;--------------------------------------------------------------------------------------------------;
 /* ;DISABLED CODE:
-;Reassign Ctrl+` to Pause (^CtrlBreak).
+;Reassign Ctrl+` to Pause (^CtrlBreak), with keyboard hook safety.
 $^`::^CtrlBreak
 */ ;DISABLED CODE.
 ;--------------------------------------------------------------------------------------------------;
